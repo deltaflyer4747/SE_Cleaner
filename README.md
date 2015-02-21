@@ -16,5 +16,4 @@ SpaceEngineers Checkpoint file (SANDBOX.sbc) cleaner for dead NPC/Player entitie
 
 
 Pre-Requisities:
-
 Python > 2.7
