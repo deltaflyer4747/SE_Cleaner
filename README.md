@@ -1,12 +1,12 @@
 # SE_Cleaner
-SpaceEngineers Checkpoint file cleaner for dead NPC/Player entities
+SpaceEngineers Checkpoint file (SANDBOX.sbc) cleaner for dead NPC/Player entities
 
 
 • Always backup your map before launching this script
 
 • Do that even so this script does its backup as well
 
-• Place this file directly into the map folder
+• Place cleaner.py directly into the map folder
 
 • Please report any errors to andys@deltaflyer.cz
 
@@ -14,3 +14,7 @@ SpaceEngineers Checkpoint file cleaner for dead NPC/Player entities
 
 • join #space-engineers on irc.esper.net
 
+
+Pre-Requisities:
+
+Python > 2.7
